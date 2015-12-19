@@ -44,9 +44,9 @@ Number  Start  End  Size  File system  Name  Flags
 
 (parted)
 ```
-*[2.2.1.1] Elaborates 10GB is adequate for most LFS+BLFS "/" going 20GB 
-*[2.2.1.2] Swap 8GB
-*[2.2.1.3] /boot=100MB, /home=50GB, /usr=5GB, /opt=10GB, /tmp=2GB, /usr/src=50GB
+- *[2.2.1.1] Elaborates 10GB is adequate for most LFS+BLFS "/" going 20GB 
+- *[2.2.1.2] Swap 8GB
+- *[2.2.1.3] /boot=100MB, /home=50GB, /usr=5GB, /opt=10GB, /tmp=2GB, /usr/src=50GB
 
 File Systems 2.3
 ----------------
