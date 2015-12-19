@@ -1,5 +1,5 @@
 # jd-wheaton/lfs7.8-systemd
-- A Journey: Mastering Linux with an LFS Project.
+- A Personal Journey: Mastering Linux with an LFS Project.
 
 # Derivative
 - I will be using LFS-BOOK-7.8-systemd.pdf as a guide
