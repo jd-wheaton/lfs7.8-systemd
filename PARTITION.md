@@ -60,7 +60,7 @@ File Systems 2.3
 0. /usr/src = /dev/sdc8 @50GB formatted ext4
 
 ```
-root@opcon:/root# parted /dev/sdc
+build@lfs:/root# parted /dev/sdc
 GNU Parted 2.3
 Using /dev/sdc
 Welcome to GNU Parted! Type 'help' to view a list of commands.
