@@ -10,6 +10,6 @@ echo Starting $SCRIPT...
 echo
 pushd $LFS/sources
 md5sum -c $SCRIPTPATH/md5sums
-popd $LFS/sources
+popd
 echo
 echo Done!
