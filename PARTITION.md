@@ -88,10 +88,12 @@ export LFS=/media/build/lfs
 ```
 Mounting up $LFS 2.5
 --------------------
-- Made two terrible scripts to create mount points and mount $LFS
-- Needs to be consolidated into a single script with if exist (todo) 
+- Created script to setup directory mount points and mount new partitions 
+- Consolidated into a single script (todo) previous two were garbage 
 ```
-./utils/make-lfs-dirs.sh
-./utils/mount-lfs.sh
+./utils/make-lfs-dirs.sh - REMOVED
+./utils/mount-lfs.sh - REMOVED
+
+./utils/lfsdirmount.sh - Tested verified works. Contains only echo's for safety, add actual work commands at your own risk.
 ```
 
